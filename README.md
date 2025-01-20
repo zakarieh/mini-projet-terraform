@@ -17,8 +17,8 @@ Avant de commencer, assurez-vous d'avoir installé :
    Clonez le dépôt sur votre machine locale si nécessaire.
 
    ```bash
-   git clone <URL_DU_DEPOT>
-   cd mon-terraform-app
+   git clone https://github.com/zakarieh/mini-projet-terraform
+   cd mini-projet-terraform
    ```
 
 2. **Initialisez Terraform** :
